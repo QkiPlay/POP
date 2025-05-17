@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1683869207 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/funkcje/funkcjadomowa/main.c
+	<stdio.h>
+	<stdlib.h>
+	"nieskompresowane.h"
+	"skompresowane.h"
+
+1683868550 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/funkcje/funkcjadomowa/nieskompresowane.h
+
+1683869187 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/funkcje/funkcjadomowa/skompresowane.h
+
+1713093616 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/main.c
+	<stdio.h>
+	<stdlib.h>
+	"nieskompresowane.h"
+	"skompresowane.h"
+	"referencyjne.h"
+	"moja.h"
+	"testy.h"
+
+1713089999 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/nieskompresowane.h
+
+1713090002 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/skompresowane.h
+
+1683876327 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/referencyjne.h
+	<stdlib.h>
+
+1683876274 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/referencyjne.c
+	"referencyjne.h"
+	<stdlib.h>
+
+1713093629 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/testy.c
+	"testy.h"
+	<time.h>
+
+1713092730 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/testy.h
+	<stdio.h>
+	<stdlib.h>
+	"referencyjne.h"
+
+1713092712 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/moja.c
+	"moja.h"
+
+1713092683 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2024/cwiczenia/funkcje/funkcjadomowa/moja.h
+
+1683876274 source:c:\users\grzes\desktop\funkcjadomowa\referencyjne.c
+	"referencyjne.h"
+	<stdlib.h>
+
+1683876327 c:\users\grzes\desktop\funkcjadomowa\referencyjne.h
+	<stdlib.h>
+
+1713093629 source:c:\users\grzes\desktop\funkcjadomowa\testy.c
+	"testy.h"
+	<time.h>
+
+1713092730 c:\users\grzes\desktop\funkcjadomowa\testy.h
+	<stdio.h>
+	<stdlib.h>
+	"referencyjne.h"
+
+1715116054 source:c:\users\grzes\desktop\funkcjadomowa\moja.c
+	"moja.h"
+	<stdio.h>
+	<stdlib.h>
+
+1715114811 c:\users\grzes\desktop\funkcjadomowa\moja.h
+
+1715115812 source:c:\users\grzes\desktop\funkcjadomowa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nieskompresowane.h"
+	"skompresowane.h"
+	"referencyjne.h"
+	"moja.h"
+	"testy.h"
+
+1713089999 c:\users\grzes\desktop\funkcjadomowa\nieskompresowane.h
+
+1713090002 c:\users\grzes\desktop\funkcjadomowa\skompresowane.h
+

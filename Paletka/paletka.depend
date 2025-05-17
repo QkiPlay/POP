@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1684306554 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1684238154 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1684309188 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/paletka.h
+
+1684309131 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1684264893 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/plansza.h
+	"paletka.h"
+
+1684264249 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1684264005 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/plansza.h
+	"paletka.h"
+
+1684255727 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/paletka.h
+
+1684238154 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1684264007 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"mojapaletka.h"
+
+1684264330 source:/home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/mojapaletka.cpp
+	"mojapaletka.h"
+
+1684255714 /home/krzysztof/Owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/mojapaletka.h
+	"paletka.h"
+
+1684264330 source:/home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/src/mojapaletka.cpp
+	"mojapaletka.h"
+
+1684255714 /home/krzysztof/owncloud-rumburak/Zajecia/Podstawy_programowania/2023/cwiczenia/klasy/paletka/include/mojapaletka.h
+	"paletka.h"
+
+1716140856 source:c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\main.cpp
+	<iostream>
+	<cstdio>
+	<chrono>
+	<thread>
+	"plansza.h"
+
+1684264893 c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\include\plansza.h
+	"paletka.h"
+
+1716140242 c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\include\paletka.h
+
+1684238154 source:c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\src\paletka.cpp
+	"paletka.h"
+	<cstdio>
+
+1716140226 source:c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\mojapaletka.cpp
+	"mojapaletka.h"
+	<cmath>
+
+1716140226 c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\mojapaletka.h
+	"paletka.h"
+
+1716140226 c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\mojapaletka.cpp
+	"mojapaletka.h"
+	<cmath>
+
+1716140226 source:c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\src\mojapaletka.cpp
+	"mojapaletka.h"
+	<cmath>
+
+1716140226 c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\include\mojapaletka.h
+	"paletka.h"
+
+1716140538 source:c:\users\grzes\documents\programowanie\paletkareferencyjna\paletka\src\plansza.cpp
+	"plansza.h"
+	"paletka.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"mojapaletka.h"
+
